@@ -303,6 +303,7 @@ dsh plugin --profile web add dshmarket
 - [chinaRXQ/dsh-wallpaper](https://github.com/chinaRXQ/dsh-wallpaper) - Wallpaper skin for the DSH Web UI: image background with opacity, mask and blur controls.
 - [DocJlm/dsh-arknights#pramanix-eyjafjalla](https://github.com/DocJlm/dsh-arknights/tree/main/skins/pramanix-eyjafjalla) - Arknights-inspired fan skin for the DSH Web UI featuring Pramanix and Eyjafjalla in a day/night celestial garden.
 - [dsh-plugins/dsh-thought-buddy](https://github.com/dsh-plugins/dsh-thought-buddy) - A GrokBot-style animated avatar with a synchronized typewriter status line — right in front of the "Deep diving..." indicator.
+- [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) - Uses local Wallpaper Engine video and web wallpapers as DSH web backgrounds with adjustable glass effects.
 - [GGBond2424648901/deep-whale-day-night-theme](https://github.com/GGBond2424648901/deep-whale-day-night-theme) - Day/night whale-girl skin: a crystal workshop by day and a moon-tide observatory by night, with paired scenes, chibi companions, ornaments, and lightweight bubble and star ambience.
 - [Isilsolme/dsh-anthropic-fonts](https://github.com/Isilsolme/dsh-anthropic-fonts) - Anthropic Sans, Serif, and Mono fonts for the DSH Web UI, with Source Han fallback for CJK.
 - [keke050/dsh-wallpaper](https://github.com/keke050/dsh-wallpaper) - Wallpaper skin for the DSH Web UI: presets, image URL or upload, and an opacity slider that fades the interface to reveal the wallpaper.
